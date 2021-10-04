@@ -24098,27 +24098,27 @@ Example Datasheet</description>
 </class>
 </classes>
 <parts>
-<part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A3L-LOC" device=""/>
-<part name="U$1" library="TDCG1060M" deviceset="TDCG1060M" device=""/>
+<part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A3L-LOC" device="" value="First Light Rev 2"/>
+<part name="U$1" library="TDCG1060M" deviceset="TDCG1060M" device="" value="TDCG1060M"/>
 <part name="U1" library="STM32F051C6" deviceset="STM32F051C6T6" device=""/>
-<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
+<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
 <part name="T1" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2"/>
 <part name="T2" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2"/>
 <part name="T3" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2"/>
 <part name="T4" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2"/>
 <part name="T5" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2"/>
-<part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
+<part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
+<part name="R13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="X1" library="IQD-Frequency-Products" library_urn="urn:adsk.eagle:library:90" deviceset="CRYSTALS-NOGND" device="-4-HSMX" package3d_urn="urn:adsk.eagle:package:3355/1" value="8MHz"/>
 <part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="10pF"/>
@@ -24149,8 +24149,8 @@ Example Datasheet</description>
 <part name="S4" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="LEFT"/>
 <part name="S5" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="RIGHT"/>
 <part name="GND11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0603" package3d_urn="urn:adsk.eagle:package:15819/3"/>
-<part name="LED2" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0603" package3d_urn="urn:adsk.eagle:package:15819/3"/>
+<part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0603" package3d_urn="urn:adsk.eagle:package:15819/3" value="ALM"/>
+<part name="LED2" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0603" package3d_urn="urn:adsk.eagle:package:15819/3" value="SET"/>
 <part name="R17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
 <part name="R18" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -25219,7 +25219,7 @@ is 1.64</text>
 <label x="27.94" y="109.22" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="N$22" class="0">
+<net name="SWITCH" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="SWITCH_EMITTER"/>
 <pinref part="U$2" gate="G$1" pin="2"/>
@@ -25229,14 +25229,16 @@ is 1.64</text>
 <pinref part="D1" gate="G$1" pin="C"/>
 <wire x1="261.62" y1="83.82" x2="261.62" y2="101.6" width="0.1524" layer="91"/>
 <junction x="261.62" y="101.6"/>
+<label x="266.7" y="101.6" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$27" class="0">
+<net name="TIMING_CAP" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="TIMING_CAPACITOR"/>
 <wire x1="281.94" y1="99.06" x2="269.24" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="C7" gate="G$1" pin="1"/>
 <wire x1="269.24" y1="99.06" x2="269.24" y2="93.98" width="0.1524" layer="91"/>
+<label x="269.24" y="99.06" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$28" class="0">
@@ -25309,6 +25311,15 @@ is 1.64</text>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,25.4,160.02,U1B,VSS_2,GND,,,"/>
+<approved hash="104,1,25.4,157.48,U1B,VSS,GND,,,"/>
+<approved hash="104,1,25.4,152.4,U1B,VSSA,GND,,,"/>
+<approved hash="204,1,25.4,147.32,U1B,VBAT,,,,"/>
+<approved hash="104,1,60.96,160.02,U1B,VDD_2,+3V3,,,"/>
+<approved hash="104,1,60.96,157.48,U1B,VDD,+3V3,,,"/>
+<approved hash="104,1,60.96,152.4,U1B,VDDA,+3V3,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
