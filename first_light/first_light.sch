@@ -23550,12 +23550,22 @@ is 1.64</text>
 <wire x1="238.76" y1="218.44" x2="243.84" y2="218.44" width="0.1524" layer="91"/>
 <label x="243.84" y="218.44" size="1.016" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="IO34"/>
+<wire x1="83.82" y1="76.2" x2="93.98" y2="76.2" width="0.1524" layer="91"/>
+<label x="93.98" y="76.2" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="SSD_E" class="0">
 <segment>
 <pinref part="R8" gate="G$1" pin="2"/>
 <wire x1="238.76" y1="228.6" x2="243.84" y2="228.6" width="0.1524" layer="91"/>
 <label x="243.84" y="228.6" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="IO35"/>
+<wire x1="83.82" y1="73.66" x2="93.98" y2="73.66" width="0.1524" layer="91"/>
+<label x="93.98" y="73.66" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="SSD_F" class="0">
