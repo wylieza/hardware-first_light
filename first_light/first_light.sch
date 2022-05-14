@@ -23551,9 +23551,9 @@ is 1.64</text>
 <label x="243.84" y="218.44" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="IO34"/>
-<wire x1="83.82" y1="76.2" x2="93.98" y2="76.2" width="0.1524" layer="91"/>
-<label x="93.98" y="76.2" size="1.016" layer="95" xref="yes"/>
+<wire x1="83.82" y1="83.82" x2="93.98" y2="83.82" width="0.1524" layer="91"/>
+<label x="93.98" y="83.82" size="1.016" layer="95" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="IO27"/>
 </segment>
 </net>
 <net name="SSD_E" class="0">
@@ -23563,9 +23563,9 @@ is 1.64</text>
 <label x="243.84" y="228.6" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="IO35"/>
-<wire x1="83.82" y1="73.66" x2="93.98" y2="73.66" width="0.1524" layer="91"/>
-<label x="93.98" y="73.66" size="1.016" layer="95" xref="yes"/>
+<wire x1="83.82" y1="111.76" x2="93.98" y2="111.76" width="0.1524" layer="91"/>
+<label x="93.98" y="111.76" size="1.016" layer="95" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="IO14"/>
 </segment>
 </net>
 <net name="SSD_F" class="0">
@@ -23575,9 +23575,9 @@ is 1.64</text>
 <label x="165.1" y="233.68" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="83.82" y1="111.76" x2="93.98" y2="111.76" width="0.1524" layer="91"/>
-<label x="93.98" y="111.76" size="1.016" layer="95" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="IO14"/>
+<pinref part="U1" gate="G$1" pin="IO34"/>
+<wire x1="83.82" y1="76.2" x2="93.98" y2="76.2" width="0.1524" layer="91"/>
+<label x="93.98" y="76.2" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="SSD_L1L2" class="0">
@@ -23587,9 +23587,9 @@ is 1.64</text>
 <label x="165.1" y="228.6" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="83.82" y1="83.82" x2="93.98" y2="83.82" width="0.1524" layer="91"/>
-<label x="93.98" y="83.82" size="1.016" layer="95" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="IO27"/>
+<pinref part="U1" gate="G$1" pin="IO35"/>
+<wire x1="83.82" y1="73.66" x2="93.98" y2="73.66" width="0.1524" layer="91"/>
+<label x="93.98" y="73.66" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="SSD_C" class="0">
@@ -23599,9 +23599,9 @@ is 1.64</text>
 <label x="165.1" y="223.52" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="83.82" y1="86.36" x2="93.98" y2="86.36" width="0.1524" layer="91"/>
-<label x="93.98" y="86.36" size="1.016" layer="95" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="IO26"/>
+<wire x1="83.82" y1="81.28" x2="93.98" y2="81.28" width="0.1524" layer="91"/>
+<label x="93.98" y="81.28" size="1.016" layer="95" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="IO32"/>
 </segment>
 </net>
 <net name="SSD_A" class="0">
@@ -23611,9 +23611,9 @@ is 1.64</text>
 <label x="165.1" y="218.44" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="83.82" y1="88.9" x2="93.98" y2="88.9" width="0.1524" layer="91"/>
-<label x="93.98" y="88.9" size="1.016" layer="95" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="IO25"/>
+<wire x1="83.82" y1="78.74" x2="93.98" y2="78.74" width="0.1524" layer="91"/>
+<label x="93.98" y="78.74" size="1.016" layer="95" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="IO33"/>
 </segment>
 </net>
 <net name="SSD_G" class="0">
@@ -23623,9 +23623,9 @@ is 1.64</text>
 <label x="165.1" y="213.36" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="83.82" y1="78.74" x2="93.98" y2="78.74" width="0.1524" layer="91"/>
-<label x="93.98" y="78.74" size="1.016" layer="95" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="IO33"/>
+<wire x1="83.82" y1="88.9" x2="93.98" y2="88.9" width="0.1524" layer="91"/>
+<label x="93.98" y="88.9" size="1.016" layer="95" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="IO25"/>
 </segment>
 </net>
 <net name="SSD_B" class="0">
@@ -23635,9 +23635,9 @@ is 1.64</text>
 <label x="165.1" y="208.28" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="83.82" y1="81.28" x2="93.98" y2="81.28" width="0.1524" layer="91"/>
-<label x="93.98" y="81.28" size="1.016" layer="95" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="IO32"/>
+<wire x1="83.82" y1="86.36" x2="93.98" y2="86.36" width="0.1524" layer="91"/>
+<label x="93.98" y="86.36" size="1.016" layer="95" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="IO26"/>
 </segment>
 </net>
 <net name="SSD_D1" class="0">
@@ -23879,6 +23879,11 @@ is 1.64</text>
 <junction x="88.9" y="213.36"/>
 <label x="83.82" y="213.36" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="IO12"/>
+<wire x1="83.82" y1="116.84" x2="93.98" y2="116.84" width="0.1524" layer="91"/>
+<label x="93.98" y="116.84" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="N$23" class="0">
 <segment>
@@ -23961,9 +23966,9 @@ is 1.64</text>
 <label x="195.58" y="60.96" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<wire x1="83.82" y1="109.22" x2="93.98" y2="109.22" width="0.1524" layer="91"/>
-<label x="93.98" y="109.22" size="1.016" layer="95" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="IO15"/>
+<wire x1="48.26" y1="93.98" x2="38.1" y2="93.98" width="0.1524" layer="91"/>
+<label x="38.1" y="93.98" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="SDO/SD0"/>
 </segment>
 </net>
 <net name="BTN_DN" class="0">
@@ -23974,9 +23979,9 @@ is 1.64</text>
 <label x="195.58" y="58.42" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<wire x1="83.82" y1="124.46" x2="93.98" y2="124.46" width="0.1524" layer="91"/>
-<label x="93.98" y="124.46" size="1.016" layer="95" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="IO2"/>
+<wire x1="48.26" y1="91.44" x2="38.1" y2="91.44" width="0.1524" layer="91"/>
+<label x="38.1" y="91.44" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="SDI/SD1"/>
 </segment>
 </net>
 <net name="BTN_L" class="0">
@@ -23987,9 +23992,9 @@ is 1.64</text>
 <label x="195.58" y="55.88" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<wire x1="48.26" y1="91.44" x2="38.1" y2="91.44" width="0.1524" layer="91"/>
-<label x="38.1" y="91.44" size="1.016" layer="95" rot="R180" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="SDI/SD1"/>
+<wire x1="83.82" y1="109.22" x2="93.98" y2="109.22" width="0.1524" layer="91"/>
+<label x="93.98" y="109.22" size="1.016" layer="95" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="IO15"/>
 </segment>
 </net>
 <net name="BTN_R" class="0">
@@ -24000,9 +24005,9 @@ is 1.64</text>
 <label x="195.58" y="53.34" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<wire x1="48.26" y1="93.98" x2="38.1" y2="93.98" width="0.1524" layer="91"/>
-<label x="38.1" y="93.98" size="1.016" layer="95" rot="R180" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="SDO/SD0"/>
+<wire x1="83.82" y1="124.46" x2="93.98" y2="124.46" width="0.1524" layer="91"/>
+<label x="93.98" y="124.46" size="1.016" layer="95" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="IO2"/>
 </segment>
 </net>
 <net name="N$24" class="0">
@@ -24140,18 +24145,17 @@ is 1.64</text>
 <wire x1="142.24" y1="154.94" x2="132.08" y2="154.94" width="0.1524" layer="91"/>
 <label x="132.08" y="154.94" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="IO0"/>
+<wire x1="83.82" y1="127" x2="93.98" y2="127" width="0.1524" layer="91"/>
+<label x="93.98" y="127" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 </nets>
 </sheet>
 </sheets>
 <errors>
-<approved hash="104,1,25.4,160.02,U1B,VSS_2,GND,,,"/>
-<approved hash="104,1,25.4,157.48,U1B,VSS,GND,,,"/>
-<approved hash="104,1,25.4,152.4,U1B,VSSA,GND,,,"/>
-<approved hash="204,1,25.4,147.32,U1B,VBAT,,,,"/>
-<approved hash="104,1,60.96,160.02,U1B,VDD_2,+3V3,,,"/>
-<approved hash="104,1,60.96,157.48,U1B,VDD,+3V3,,,"/>
-<approved hash="104,1,60.96,152.4,U1B,VDDA,+3V3,,,"/>
+<approved hash="104,1,83.82,132.08,U1,3V3,+3V3,,,"/>
 </errors>
 </schematic>
 </drawing>
