@@ -23037,11 +23037,11 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
 <part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
 <part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
-<part name="T1" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2"/>
-<part name="T2" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2"/>
-<part name="T3" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2"/>
-<part name="T4" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2"/>
-<part name="T5" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2"/>
+<part name="T1" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2" value="UM2222AU3T106"/>
+<part name="T2" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2" value="UM2222AU3T106"/>
+<part name="T3" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2" value="UM2222AU3T106"/>
+<part name="T4" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2" value="UM2222AU3T106"/>
+<part name="T5" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NPNSOT323" device="" package3d_urn="urn:adsk.eagle:package:30986/2" value="UM2222AU3T106"/>
 <part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
 <part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
 <part name="R11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330"/>
