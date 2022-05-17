@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2022-05-16T16:58:52Z",
+        "CreationDate": "2022-05-17T11:10:20Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -15,7 +15,7 @@
         "Name": {
             "ProjectId": "first_light"
         },
-        "Owner": "Wylieza Wylieza <wylieza@gmail.com>",
+        "Owner": "Justin Wylie <justinwylie@olarm.co>",
         "Size": {
             "X": 100,
             "Y": 50
